@@ -128,13 +128,12 @@ header::before{
 
 .links{
   display: flex;
-  align-items: self-start;
   justify-content: center;
-  gap: 50px;
+  gap: 30px;
   text-align: center;
   padding-top: 20px;
-  padding-bottom: 20px;
- 
+  padding-bottom: 40px;
+  
 }
 .links p, .copy-button button{
   text-align: center !important;
